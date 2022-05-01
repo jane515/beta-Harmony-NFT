@@ -1,38 +1,41 @@
-[
-    {
-      "id": 0,
-      "description": "Beta attendance NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
-      "name": "Beta 4.30,2022 Attandance NFT"
-    },
-    {
-        "id": 1,
-        "description": "Beta attendance NFT",
-        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-        "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
-        "name": "Beta 4.30,2022 Attandance NFT"
-    },
-    {
-        "id": 2,
-        "description": "Beta attendance NFT",
-        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-        "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
-        "name": "Beta 4.30,2022 Attandance NFT"
-    },
-    {
-        "id": 3,
-        "description": "Beta attendance NFT",
-        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-        "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
-        "name": "Beta 4.30,2022 Attandance NFT"
-      },
-      {
-          "id": 4,
-          "description": "Beta attendance NFT",
-          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-          "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
-          "name": "Beta 4.30,2022 Attandance NFT 0"
-      }
+{
+    "NFTs": [
+        {
+            "id": 0,
+            "description": "Beta attendance NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
+            "name": "Beta 4.30,2022 Attandance NFT"
+          },
+          {
+              "id": 1,
+              "description": "Beta attendance NFT",
+              "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+              "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
+              "name": "Beta 4.30,2022 Attandance NFT"
+          },
+          {
+              "id": 2,
+              "description": "Beta attendance NFT",
+              "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+              "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
+              "name": "Beta 4.30,2022 Attandance NFT"
+          },
+          {
+              "id": 3,
+              "description": "Beta attendance NFT",
+              "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+              "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
+              "name": "Beta 4.30,2022 Attandance NFT"
+            },
+            {
+                "id": 4,
+                "description": "Beta attendance NFT",
+                "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+                "image": "https://gateway.pinata.cloud/ipfs/QmeRPrzR8NzRpc4tovxh8e3KG7PHtA28GUVpxpFFimARGJ",
+                "name": "Beta 4.30,2022 Attandance NFT 0"
+            }
+    ]
+    
       
-  ]
+}
